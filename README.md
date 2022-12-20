@@ -1,2 +1,2 @@
-# YTDLP-d
- Another YTDLP wrapper. This time, it's a server. 
+# YTDLP Daemon ; YTDLP-d
+Yes. Another YT-DLP wrapper, except this time, it's different. 
